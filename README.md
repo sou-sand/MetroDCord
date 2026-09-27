@@ -4,7 +4,7 @@ Finally... a native Metro-style Discord desktop client tailored specifically for
 
 ## About the Project
 
-**MetroDCord** bridges the gap for retro-computing enthusiasts, Windows 8.1 users, and members of the legacy Microsoft customization scene. While other community clients have drifted towards modern UWP architectures for Windows 10/11, MetroDCord is built from the ground up to preserve the 2012–2014 aesthetic—featuring horizontal panning typography, rigid flat blocks (Tiles), and high-performance native rendering.
+**MetroDCord** bridges the gap for retro-computing enthusiasts, Windows 8.1 users, and members of the legacy Microsoft customization scene. While other community clients have drifted towards modern UWP architectures for Windows 10/11, MetroDCord is built from the ground up to preserve the 2012–2014 aesthetic, featuring horizontal panning typography, live tiles, and high-performance native rendering.
 
 Built using **Visual Studio 2015**, **C#**, and **WinRT (XAML)** targeting the Windows 8.1 SDK.
 
