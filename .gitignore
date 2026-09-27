@@ -1,0 +1,41 @@
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.usermd
+*.usertasks
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Re]leasePublic/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## Visual Studio 2015 / Roslyn / Code Analysis cache
+.vs/
+Generated Files/
+_ReSharper*/
+*.[Cc]r[Aa]sh[Ll]og
+
+## NuGet Packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+## Windows OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## MetroDCord Specific Cached Files
+/MetroDCord.Core/Updates/Temp/
+/MetroDCord.UI/bin/
+/MetroDCord.UI/obj/
