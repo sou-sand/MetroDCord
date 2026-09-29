@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MetroDCord", "MetroDCord", "{54D0CEB3-E200-4464-A19C-641AA4EF6B4C}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "MetroDCord.Shared", "MetroDCord\MetroDCord.Shared\MetroDCord.Shared.shproj", "{2E253465-036D-4ADF-8493-172A25103D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetroDCord.Windows", "MetroDCord\MetroDCord.Windows\MetroDCord.Windows.csproj", "{91764E02-D428-41A2-AFAA-83B5F1B70288}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		MetroDCord\MetroDCord.Shared\MetroDCord.Shared.projitems*{2e253465-036d-4adf-8493-172a25103d1f}*SharedItemsImports = 13
+		MetroDCord\MetroDCord.Shared\MetroDCord.Shared.projitems*{91764e02-d428-41a2-afaa-83b5f1b70288}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|ARM.ActiveCfg = Debug|ARM
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|ARM.Build.0 = Debug|ARM
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|ARM.Deploy.0 = Debug|ARM
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|x64.ActiveCfg = Debug|x64
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|x64.Build.0 = Debug|x64
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|x64.Deploy.0 = Debug|x64
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|x86.ActiveCfg = Debug|x86
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|x86.Build.0 = Debug|x86
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Debug|x86.Deploy.0 = Debug|x86
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|ARM.ActiveCfg = Release|ARM
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|ARM.Build.0 = Release|ARM
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|ARM.Deploy.0 = Release|ARM
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|x64.ActiveCfg = Release|x64
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|x64.Build.0 = Release|x64
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|x64.Deploy.0 = Release|x64
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|x86.ActiveCfg = Release|x86
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|x86.Build.0 = Release|x86
+		{91764E02-D428-41A2-AFAA-83B5F1B70288}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2E253465-036D-4ADF-8493-172A25103D1F} = {54D0CEB3-E200-4464-A19C-641AA4EF6B4C}
+		{91764E02-D428-41A2-AFAA-83B5F1B70288} = {54D0CEB3-E200-4464-A19C-641AA4EF6B4C}
+	EndGlobalSection
+EndGlobal
