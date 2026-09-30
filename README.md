@@ -50,7 +50,7 @@ MetroDCord is a community-driven open-source project. If you are part of the leg
 
 ## Disclaimer
 
-MetroDCord is a third-party application developed solely for educational and computational preservation purposes. It is not affiliated with, authorized, or maintained by Discord Inc. Modifying your client experience technically breaches Discord's Terms of Service—exercise standard caution and use alternate accounts during testing stages.
+MetroDCord is a third-party application developed solely for educational and computational preservation purposes. It is not affiliated with, authorized, or maintained by Discord Inc. Modifying your client experience technically breaches Discord's Terms of Service, exercise standard caution and use alternate accounts during testing stages.
 
 ***
 
